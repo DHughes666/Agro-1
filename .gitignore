@@ -1,0 +1,4 @@
+product01
+__pycache__/
+db.sqlite3
+docker-compose-prod.yml
